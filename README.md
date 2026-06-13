@@ -7,7 +7,7 @@
 I care about shipping software that is clean, useful, and maintainable. I am early in my engineering career, but I approach my work with the habits that make teams faster: clear communication, readable code, thoughtful tradeoffs, and steady follow-through.
 
 [![GitHub followers](https://img.shields.io/github/followers/Darkboy17?style=for-the-badge&logo=github&label=Follow)](https://github.com/Darkboy17)
-[![Profile views](https://komarev.com/ghpvc/?username=Darkboy17&style=for-the-badge&color=0e75b6)](https://github.com/Darkboy17)
+![Open to work](https://img.shields.io/badge/Open%20to-Entry--Level%20Roles-0e75b6?style=for-the-badge)
 
 </div>
 
