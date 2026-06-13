@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Azriel Leonard
+# Hi, I'm Kordor Pyrbot
 
-### Entry-level Software Engineer building with senior-level care
+### A Fullstack Engineer building with senior-level care
 
 I care about shipping software that is clean, useful, and maintainable. I am early in my engineering career, but I approach my work with the habits that make teams faster: clear communication, readable code, thoughtful tradeoffs, and steady follow-through.
 
